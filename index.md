@@ -1,0 +1,43 @@
+---
+title: everytrickinthebook
+description: "everytrickinthebook, everytrick for short, by SJMcH, uses every trick in the book to turn a book written in Markdown into an open, static website."
+---
+::: {.opening}
+
+::: {.intro}
+
+# everytrick[inthebook]{} {.name}
+
+::: {.tagline}
+by SJMcH
+:::
+:::
+
+![A young woman with a stylus and wax tablets, the codex’s ancestor. Wall painting from Pompeii, before 79 CE. Public domain, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pompei_-_Sappho_-_MAN.jpg).](sappho.webp){width=720 height=991 alt="Wall painting of a young woman with a golden net in her hair, holding a stylus to her lips and a set of wax tablets bound like a book."}
+
+:::
+
+everytrickinthebook, everytrick for short, uses every trick in the book to turn a book written in Markdown into an open, static website.
+
+It builds on Pandoc, a few Lua filters, a template, 16 years of publishing experience and the shoulders of giants, dwarfs, gathered friends, allied infrastructures and cracks in the internet. The book and the kit that builds it can live apart. It needs no server. Designed with the end in mind and scaling small.
+
+everytrick is made by Studio Julien McHardy with and for Mattering Press. [*Hear Here: Spatial Practices*](https://hearhere.matteringpress.org/), Nirmal Puwar (Mattering Press, 2026–), is the first book made with everytrick. The two are growing up together.
+
+For now everytrick’s code lives in that book’s repository, in the `everytrick/` folder. It will move to its own home, [github.com/everytrick](https://github.com/everytrick/everytrickinthebook).
+
+[What’s new](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/everytrick/CHANGELOG.md) lists every version of everytrick and what changed in it.
+
+::: {.contact}
+
+## Get in touch
+
+I make everytrick in a small studio with a small press. If you make books, or kits for making them, and would like to use it, try it or think about it with me, write to
+
+[mail@julienmchardy.info](mailto:mail@julienmchardy.info){.address}
+:::
+
+::: {.site-footer}
+Copyright © 2026 Studio Julien McHardy (SJMcH).
+
+The kit is under the Mozilla Public License 2.0; its Markdown conventions and documentation, this page included, under CC BY-SA 4.0; the designed styles, `sjmch/styles`, are free for non-commercial use. [The details](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/everytrick/NOTICE.md). Please get in touch before sending changes.
+:::
