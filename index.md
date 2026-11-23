@@ -31,7 +31,7 @@ For now everytrick’s code lives in that book’s repository, in the `everytric
 
 ## Get in touch
 
-I make everytrick in a small studio with a small press. If you make books, or kits for making them, and would like to use it, try it or think about it with me, write to
+If you make books, or kits for making them, and would like to use, try or think about everytrickinthebook write to
 
 [mail@julienmchardy.info](mailto:mail@julienmchardy.info){.address}
 :::
