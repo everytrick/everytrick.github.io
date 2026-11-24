@@ -6,7 +6,7 @@ description: "everytrickinthebook, everytrick for short, by SJMcH, uses every tr
 
 ::: {.intro}
 
-everytrick[inthebook]{} {.name}
+# everytrickinthebook
 
 ::: {.tagline}
 by SJMcH
