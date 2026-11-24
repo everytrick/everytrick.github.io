@@ -13,7 +13,7 @@ by SJMcH
 :::
 :::
 
-![A young woman with a stylus and wax tablets, the codex’s ancestor. Wall painting from Pompeii, before 79 CE. Public domain, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pompei_-_Sappho_-_MAN.jpg).](sappho.webp){width=720 height=991 alt="Wall painting of a young woman with a golden net in her hair, holding a stylus to her lips and a set of wax tablets bound like a book."}
+![A young woman with a stylus and wax tablets, the codex’s ancestor. Wall painting from Pompeii, before 79 CE. Public domain, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pompei_-_Sappho_-_MAN.jpg).](sappho.webp){.blink width=720 height=992 alt="Wall painting of a young woman with a golden net in her hair, holding a stylus to her lips and a set of wax tablets bound like a book."}
 
 :::
 

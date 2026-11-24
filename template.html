@@ -107,6 +107,9 @@
     figure { margin: 0; }
     figure img { display: block; width: 100%; height: auto; border-radius: 4px; box-shadow: 0 4px 12px rgb(0 0 0 / 0.08); }
     figcaption { margin-top: 0.6rem; font-size: 0.85rem; line-height: 1.45; color: var(--colour-muted); }
+    /* the opening picture blinks now and then (blink.js): its wrapper carries the canvas laid over the eyes */
+    .blink-wrap { position: relative; }
+    .blink-wrap canvas { position: absolute; pointer-events: none; }
 
     /* a box, such as "Get in touch" */
     .contact {
@@ -139,6 +142,7 @@
       .opening { grid-template-columns: minmax(0, 1fr) 18rem; }
     }
   </style>
+  <script src="blink.js" defer></script>
 </head>
 <body>
 <main>
