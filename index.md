@@ -13,7 +13,7 @@ by SJMcH
 :::
 :::
 
-![A young woman with a stylus and wax tablets, the codex’s ancestor. Wall painting from Pompeii, before 79 CE. Public domain, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pompei_-_Sappho_-_MAN.jpg). Blink by SJMcH.](sappho.webp){.blink width=720 height=992 alt="Wall painting of a young woman with a golden net in her hair, holding a stylus to her lips and a set of wax tablets bound like a book."}
+![A young woman with a stylus and wax tablets, the codex’s ancestor. This wall painting from Pompeii, made before 79 CE, is traditionally called ‘Sappho’. The sitter is unknown. Sappho composed songs in the Aeolic Greek of Lesbos, some giving voice to desire between women. Her ‘Ode to Aphrodite’ was handed down complete. Most of what else survives comes to us in scraps of papyrus and quotations by other writers. Public domain, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pompei_-_Sappho_-_MAN.jpg). Blink by SJMcH.](sappho.webp){.blink width=720 height=992 alt="Wall painting of a young woman with a golden net in her hair, holding a stylus to her lips and a set of wax tablets bound like a book."}
 
 :::
 
