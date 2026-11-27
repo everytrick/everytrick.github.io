@@ -40,7 +40,7 @@ I have big and humble plans for everytrick. If you make books, or kits for makin
 :::
 
 ::: {.site-footer}
-Copyright © 2026 Studio Julien McHardy (SJMcH).
+Founded by Julien McHardy (Studio Julien McHardy, SJMcH). Copyright © 2026 Studio Julien McHardy (SJMcH) and the everytrickinthebook contributors.
 
-Everytrickinthebook is under the Mozilla Public License 2.0; its Markdown conventions and documentation, this page included, under CC BY-SA 4.0; the designed styles, `sjmch/styles`, are free for non-commercial use. [The details](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/everytrick/NOTICE.md). Please get in touch before sending changes.
+Everytrickinthebook is under the GNU Affero General Public License, version 3 or later: free to use and adapt, with changes shared alike and the credit kept. A press’s books and styling stay its own. Its Markdown conventions and documentation, this page included, are under CC BY-SA 4.0; the designed styles, `sjmch/styles`, are licensed by arrangement. [The details](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/everytrick/NOTICE.md). Other presses are welcome to contribute: [how to send a change](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/everytrick/CONTRIBUTING.md). Contributors are named on this page.
 :::
